@@ -17,7 +17,7 @@
   };
 
   const images = {
-    "boek lezen": "my_images/boek lezen.png",
+    "Boek lezen": "my_images/Boek lezen.png",
     "Hand omhoog": "my_images/Hand omhoog.png",
     "Duim omhoog": "my_images/Duim omhoog.png",
     "Neutraal": "my_images/Neutraal.png"
