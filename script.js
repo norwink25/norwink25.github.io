@@ -10,7 +10,7 @@
 
   // Pas deze keys exact aan naar de class-namen van jouw Teachable Machine model!
   const sounds = {
-    "boek lezen": new Audio("my_sounds/boek lezen.mp3"),
+    "Boek lezen": new Audio("my_sounds/Boek lezen.mp3"),
     "Hand omhoog": new Audio("my_sounds/Hand omhoog.mp3"),
     "Duim omhoog": new Audio("my_sounds/Duim omhoog.mp3"),
     "Neutraal": new Audio("my_sounds/Neutraal.mp3")
